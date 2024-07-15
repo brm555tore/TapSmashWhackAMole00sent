@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c06d68c85b37f4622937457b422d7a17, type: 3}
+  m_Name: AudioClipRefsSO
+  m_EditorClassIdentifier: 
+  moleHit: {fileID: 8300000, guid: 04f38057b1afd40b88321c16039a66bd, type: 3}
+  moleMiss: {fileID: 8300000, guid: 0bbbf9d6f1af747aa9d0f06408a48e8c, type: 3}
+  click: {fileID: 8300000, guid: c16d89508e3d7423f8ca4af1f9394992, type: 3}
+  moleShow: {fileID: 8300000, guid: 895199ddcdc774e05925935f5ef80366, type: 3}
+  moleHided: {fileID: 8300000, guid: 0bbbf9d6f1af747aa9d0f06408a48e8c, type: 3}
